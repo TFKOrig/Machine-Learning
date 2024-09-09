@@ -41,7 +41,7 @@ print(f.replace("o","J"))  # replaces alphabet ' o ' with ' j '
 
 a = "Hello j World!"
 print(a.split("j")) # splits the string into further smaller strings here it finds j and replaces it with comma removing j while also spliting into two smaller strings 
-
+print(a.split())    # splits when nothing is provided it splits on the space
 #********************************************* Concatenate String *********************************************************************
 
 i="Hello"
