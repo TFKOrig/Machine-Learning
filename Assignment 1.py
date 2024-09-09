@@ -10,6 +10,7 @@ b = "Hello,World!"
 
 print(b[7:])
 
+print(b[:5])
                                           
 #reverse string slicing
 
